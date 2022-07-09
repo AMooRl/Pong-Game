@@ -4,11 +4,11 @@ Simple Game ,
 for 2 Player 
 
 first Player , 
-w for up , 
-s for down 
+W for up , 
+S for down 
 
 second Player , 
-arrow up for up , 
-arrow down for down
+arrow UP for up , 
+arrow DOWN for down
 
 Enjoy :)
