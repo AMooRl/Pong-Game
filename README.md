@@ -1,7 +1,7 @@
 # Pong-Game
 
 Simple Game , 
-2 Player 
+for 2 Player 
 
 first Player , 
 w for up , 
