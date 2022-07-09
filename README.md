@@ -1,13 +1,13 @@
 # Pong-Game
 
-Simple Game 
-2 Player , 
+Simple Game , 
+2 Player 
 
-first Player
+first Player , 
 w for up , 
-s for down , 
+s for down 
 
-second Player
+second Player , 
 arrow up for up , 
 arrow down for down
 
